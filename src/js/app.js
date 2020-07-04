@@ -1,3 +1,4 @@
+import "../css/main.css";
 import hello, { factorial, world } from "./hello";
 
 console.log(factorial(6));

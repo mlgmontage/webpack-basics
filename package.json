@@ -6,5 +6,9 @@
   "scripts": {
     "build": "webpack-dev-server",
     "build:prod": "webpack"
+  },
+  "devDependencies": {
+    "css-loader": "^3.6.0",
+    "style-loader": "^1.2.1"
   }
 }
