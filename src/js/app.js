@@ -1,4 +1,5 @@
-import hello, { factorial } from "./hello";
+import hello, { factorial, world } from "./hello";
 
 console.log(factorial(6));
 hello();
+world();
